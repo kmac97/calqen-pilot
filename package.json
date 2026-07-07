@@ -1,0 +1,10 @@
+{
+  "name": "calqen-pilot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "postinstall": "node -e \"console.log('[calqen-pilot postinstall] ran — exercises the accepted script-execution residual risk')\"",
+    "test": "node --test"
+  }
+}
